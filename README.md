@@ -41,3 +41,4 @@ logs/
 tests/
   unit/
   integration/
+   docs/BLINDO_v1_6_spec.md
