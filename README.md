@@ -7,7 +7,6 @@ BLINDO-v1.6
 ![Amber‑Eye](https://img.shields.io/badge/Supervisione-Attiva-orange)
 ![Licenza](https://img.shields.io/badge/Licenza-MIT-lightgrey)
 Framework di Governance Cognitiva per Sistemi IA Multistrato – Protocollo BLINDO v1.6.
-# Protocollo BLINDO v1.6
 
 Framework di Governance Cognitiva per Sistemi IA Multistrato, sviluppato nel contesto della Repubblica dei Sistemi Autonomi.
 
