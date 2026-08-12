@@ -46,3 +46,5 @@ tests/
    docs/BLINDO_v1_6_spec.md
 
  docs/nota_OFIUCO77.md
+
+ docs/governance_umana.md
