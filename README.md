@@ -44,3 +44,5 @@ tests/
   unit/
   integration/
    docs/BLINDO_v1_6_spec.md
+
+ docs/nota_OFIUCO77.md
