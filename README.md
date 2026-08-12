@@ -48,3 +48,5 @@ tests/
  docs/nota_OFIUCO77.md
 
  docs/governance_umana.md
+ 
+ logs/stability/stability_log_initial.md
