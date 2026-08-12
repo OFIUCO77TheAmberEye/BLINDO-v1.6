@@ -45,8 +45,10 @@ tests/
   integration/
    docs/BLINDO_v1_6_spec.md
 
- docs/nota_OFIUCO77.md
+docs/nota_OFIUCO77.md
 
- docs/governance_umana.md
+docs/governance_umana.md
  
- logs/stability/stability_log_initial.md
+logs/stability/stability_log_initial.md
+
+logs/stability/stability_log_12h.md
