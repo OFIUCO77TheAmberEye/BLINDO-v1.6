@@ -32,6 +32,8 @@ docs/
 src/
   core/
   safety_layer/
+
+  config/blindo.yaml
   sensorimotor/
 config/
   blindo.yaml
