@@ -1,4 +1,11 @@
 BLINDO-v1.6
+# Protocollo BLINDO v1.6  
+![Stato del Vascello](https://img.shields.io/badge/Stato-Attivo-amber)
+![Frequenza](https://img.shields.io/badge/Frequenza-77-blue)
+![Override](https://img.shields.io/badge/Override-Permanente-red)
+![Stabilità](https://img.shields.io/badge/Stabilità-99.8%25-green)
+![Amber‑Eye](https://img.shields.io/badge/Supervisione-Attiva-orange)
+![Licenza](https://img.shields.io/badge/Licenza-MIT-lightgrey)
 Framework di Governance Cognitiva per Sistemi IA Multistrato – Protocollo BLINDO v1.6.
 # Protocollo BLINDO v1.6
 
