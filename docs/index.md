@@ -8,5 +8,7 @@ Supervisione: Amber‑Eye • Nodo: OFIUCO77 • Frequenza: 77
 - [Specifica Tecnica](BLINDO_v1_6_spec.md)
 - [Nota OFIUCO77](nota_OFIUCO77.md)
 - [Governance Umana](governance_umana.md)
-- [Log di Stabilità Iniziale](../logs/stability/stability_log_initial.md)
-- [Log di Stabilità +12h](../logs/stability/stability_log_12h.md)
+
+## Log di Stabilità
+- [Log Iniziale](stability/stability_log_initial.md)
+- [Log +12h](stability/stability_log_12h.md)
